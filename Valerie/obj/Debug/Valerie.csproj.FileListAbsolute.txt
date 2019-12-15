@@ -1,0 +1,6 @@
+E:\Osobni projekti\Valerie\Valerie\bin\Debug\Valerie.exe
+E:\Osobni projekti\Valerie\Valerie\bin\Debug\Valerie.pdb
+E:\Osobni projekti\Valerie\Valerie\obj\Debug\Valerie.csprojAssemblyReference.cache
+E:\Osobni projekti\Valerie\Valerie\obj\Debug\Valerie.csproj.CoreCompileInputs.cache
+E:\Osobni projekti\Valerie\Valerie\obj\Debug\Valerie.exe
+E:\Osobni projekti\Valerie\Valerie\obj\Debug\Valerie.pdb
